@@ -1,5 +1,5 @@
 # UE4Learning
 Projects from Guo Hao to learn Unreal Engine 4
-20201211作业云盘地址：https://jbox.sjtu.edu.cn/l/H1NG5F
+20201218作业云盘地址：https://jbox.sjtu.edu.cn/l/H1NGuP
 （包含Source、Content等内容位于.zip内）
-备注：Failed to launch UE4 Engine for passed a few days, thus the assignment is not finished yet. Still finding solution for this issue.
+备注：爆炸粒子特效在安卓机上失效，射击效果在UE4模拟时可以正常显示。
